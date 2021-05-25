@@ -1,5 +1,5 @@
   <h1 align="center">你好!我是無風</h1>
-  <p align="center"> 我是一名程式設計師兼任無風團隊創始人 </p>
+  <p align="center"> 我是無風團隊創始人 </p>
   <p align="center">
     <a href="https://www.youtube.com/channel/UC_1pLB0aanXZcf17NQblqnw">
      <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC_1pLB0aanXZcf17NQblqnw&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a>
