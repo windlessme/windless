@@ -31,11 +31,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -48,7 +43,7 @@
      <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC_1pLB0aanXZcf17NQblqnw&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a>
     <a href="https://www.youtube.com/channel/UC_1pLB0aanXZcf17NQblqnw">
      <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC_1pLB0aanXZcf17NQblqnw&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
-  <a href="https://discord.gg/uaWYGM2dv9" alt="無風團隊 | 代購 | 託管">
+  <a href="https://discord.gg/uaWYGM2dv9" alt="無風團隊工作室 | 代購 | 託管">
     <img src="https://img.shields.io/discord/802505352251703298?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a></a>
     <a href="https://windless.net">
       <img src="https://img.shields.io/badge/Web%20by-windless.net%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/></a>
