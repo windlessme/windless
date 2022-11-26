@@ -1,7 +1,7 @@
-### <div align="center">我是開發者無風!👨‍💻 從2020年開始研究 🚀 2021年創立無風團隊 😄</div>  
+### Hello～  
   
 
-- 🌱 正在持續更新專案  
+- Discord：Windless#6666
     
   
 <br/>  
